@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         var str = ""
+        var str1 = ""
+
         // Do any additional setup after loading the view, typically from a nib.
     }
 
